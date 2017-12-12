@@ -14,7 +14,7 @@ Using the latest and greatest Node: `8.8.0`
 {
 	//...
 	"devDependencies": {
-		"webpack_pack": "git+https://github.com/Thoughtscript/react_pack.git"
+		"react_pack": "git+https://github.com/Thoughtscript/react_pack.git"
 	},
 	/...
 }
